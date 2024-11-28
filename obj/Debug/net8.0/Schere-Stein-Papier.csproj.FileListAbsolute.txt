@@ -1,0 +1,14 @@
+C:\Users\vjent\source\repos\Uebung-24-2\Schere-Stein-Papier\bin\Debug\net8.0\Schere-Stein-Papier.exe
+C:\Users\vjent\source\repos\Uebung-24-2\Schere-Stein-Papier\bin\Debug\net8.0\Schere-Stein-Papier.deps.json
+C:\Users\vjent\source\repos\Uebung-24-2\Schere-Stein-Papier\bin\Debug\net8.0\Schere-Stein-Papier.runtimeconfig.json
+C:\Users\vjent\source\repos\Uebung-24-2\Schere-Stein-Papier\bin\Debug\net8.0\Schere-Stein-Papier.dll
+C:\Users\vjent\source\repos\Uebung-24-2\Schere-Stein-Papier\bin\Debug\net8.0\Schere-Stein-Papier.pdb
+C:\Users\vjent\source\repos\Uebung-24-2\Schere-Stein-Papier\obj\Debug\net8.0\Schere-Stein-Papier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vjent\source\repos\Uebung-24-2\Schere-Stein-Papier\obj\Debug\net8.0\Schere-Stein-Papier.AssemblyInfoInputs.cache
+C:\Users\vjent\source\repos\Uebung-24-2\Schere-Stein-Papier\obj\Debug\net8.0\Schere-Stein-Papier.AssemblyInfo.cs
+C:\Users\vjent\source\repos\Uebung-24-2\Schere-Stein-Papier\obj\Debug\net8.0\Schere-Stein-Papier.csproj.CoreCompileInputs.cache
+C:\Users\vjent\source\repos\Uebung-24-2\Schere-Stein-Papier\obj\Debug\net8.0\Schere-Stein-Papier.dll
+C:\Users\vjent\source\repos\Uebung-24-2\Schere-Stein-Papier\obj\Debug\net8.0\refint\Schere-Stein-Papier.dll
+C:\Users\vjent\source\repos\Uebung-24-2\Schere-Stein-Papier\obj\Debug\net8.0\Schere-Stein-Papier.pdb
+C:\Users\vjent\source\repos\Uebung-24-2\Schere-Stein-Papier\obj\Debug\net8.0\Schere-Stein-Papier.genruntimeconfig.cache
+C:\Users\vjent\source\repos\Uebung-24-2\Schere-Stein-Papier\obj\Debug\net8.0\ref\Schere-Stein-Papier.dll
